@@ -11,7 +11,7 @@ set pastetoggle=<f5>
 
 "" Whitespace
 set nowrap
-set tabstop=2 shiftwidth=2
+set tabstop=2 shiftwidth=2 softtabstop=2
 set expandtab
 set backspace=indent,eol,start
 
